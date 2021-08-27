@@ -1,1 +1,0 @@
-call "C:\Program Files\Epic Games\UE_4.25\Engine\Binaries\Win64\UE4Editor.exe" "D:\data\UE\hoop\hoop.uproject" -game -log
