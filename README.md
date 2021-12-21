@@ -7,4 +7,4 @@ Current available options:
 1. Maximum reverse time : Will allow the user to adjust how much time should be recorded for time reversal
 2. Slow motion multiplier : Default set to 1. Anything below 1 will produce slow motion effects.
 
-These options can be edite both in default settings and per-object instances. 
+These options can be edited both in default settings and per-object instances. 
